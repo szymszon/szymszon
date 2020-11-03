@@ -1,4 +1,10 @@
-### Hi there 👋
+### Serdecznie witam na moim GitHubie 👋
+
+Tutaj bede zamieszczać kod/projekty z:
+- Podstaw Programowania
+- Narzędzi Informatycznych
+- Programowania Obiektowego
+
 
 <!--
 **szymszon/szymszon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
