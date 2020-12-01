@@ -5,6 +5,10 @@ Tutaj bede zamieszczać kod/projekty z:
 - Narzędzi Informatycznych
 - Programowania Obiektowego
 
+Moja [strona](https://szymszon.github.io/)
+
+[Artykuł](https://github.com/szymszon/MAGritte), który mnie zainteresował.
+
 
 <!--
 **szymszon/szymszon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
